@@ -1,0 +1,5 @@
+DEFINE IPV4 AND IPV6
+
+calculate no of 198-network 168.35 - host
+
+if ip is 12.14.10.1 and 8 bits are representing a network wht will be a host? and what will be cls  name?
