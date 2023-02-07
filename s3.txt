@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+mkdir folder1
+
+
+touch folder1/f_1 folder1/f_2 folder1/f_3
+
+
+sudo chown -R root:root folder1
+
+sudo chmod -R 700 folder1
